@@ -120,10 +120,8 @@ GigShield AI provides automatic income protection for gig workers by detecting d
 ---
 
 ## 👥 Team
-- Team Name: [Your Team Name]
-- Members: [Add Member Names]
+- Team Name: Pixel Pirates
+- Members: -Anto Shreya N - Benny Hinn L - Deekshitha M - Hemavarna S -Hemma Lekha R
 
 ---
 
-## 📌 License
-This project is for hackathon/demo purposes.
